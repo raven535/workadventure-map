@@ -114,7 +114,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/outdoor_1\/floortileset.png",
+         "image":"ressources\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -146,7 +146,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/outdoor_1\/tilesets_deviant_milkian_1.png",
+         "image":"ressources\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -160,7 +160,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/ressources\/intereur_misc.png",
+         "image":"ressources\/intereur_misc.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -174,7 +174,7 @@
         {
          "columns":16,
          "firstgid":577,
-         "image":"..\/ressources\/interior.png",
+         "image":"ressources\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -188,7 +188,7 @@
         {
          "columns":16,
          "firstgid":833,
-         "image":"..\/ressources\/postapo_tileset01.png",
+         "image":"ressources\/postapo_tileset01.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -202,7 +202,7 @@
         {
          "columns":16,
          "firstgid":1089,
-         "image":"..\/ressources\/walls.png",
+         "image":"ressources\/walls.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -216,7 +216,7 @@
         {
          "columns":16,
          "firstgid":1329,
-         "image":"..\/ressources\/exterieur_misc2.png",
+         "image":"ressources\/exterieur_misc2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -230,7 +230,7 @@
         {
          "columns":12,
          "firstgid":1585,
-         "image":"..\/ressources\/watertileset3qb2tg0.png",
+         "image":"ressources\/watertileset3qb2tg0.png",
          "imageheight":331,
          "imagewidth":410,
          "margin":0,
