@@ -156,7 +156,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.01.13",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -580,7 +580,7 @@
         {
          "columns":16,
          "firstgid":4172,
-         "image":"..\/..\/ressources\/intereur_misc2.png",
+         "image":"..\/..\/ressources\/interieur_misc2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
