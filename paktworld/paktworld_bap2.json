@@ -17,6 +17,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"ressources\/audio\/RoteSterne.mp3"
@@ -228,7 +233,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.01.13",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
