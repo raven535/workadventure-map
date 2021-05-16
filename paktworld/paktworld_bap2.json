@@ -104,6 +104,12 @@
          "id":9,
          "name":"floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"bap"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -232,6 +238,12 @@
  "nextlayerid":25,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"scripts\/script.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,
